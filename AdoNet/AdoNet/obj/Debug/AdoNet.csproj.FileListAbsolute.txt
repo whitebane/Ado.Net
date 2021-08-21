@@ -1,0 +1,10 @@
+C:\Users\Alikaan\source\repos\AdoNet\AdoNet\bin\Debug\AdoNet.exe.config
+C:\Users\Alikaan\source\repos\AdoNet\AdoNet\bin\Debug\AdoNet.exe
+C:\Users\Alikaan\source\repos\AdoNet\AdoNet\bin\Debug\AdoNet.pdb
+C:\Users\Alikaan\source\repos\AdoNet\AdoNet\obj\Debug\AdoNet.csproj.AssemblyReference.cache
+C:\Users\Alikaan\source\repos\AdoNet\AdoNet\obj\Debug\AdoNet.Form1.resources
+C:\Users\Alikaan\source\repos\AdoNet\AdoNet\obj\Debug\AdoNet.Properties.Resources.resources
+C:\Users\Alikaan\source\repos\AdoNet\AdoNet\obj\Debug\AdoNet.csproj.GenerateResource.cache
+C:\Users\Alikaan\source\repos\AdoNet\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\Alikaan\source\repos\AdoNet\AdoNet\obj\Debug\AdoNet.exe
+C:\Users\Alikaan\source\repos\AdoNet\AdoNet\obj\Debug\AdoNet.pdb
